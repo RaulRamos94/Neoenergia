@@ -1,0 +1,41 @@
+#principal{
+    text-align: center;
+}
+
+a{
+    text-decoration-line: none;
+    color: rgb(12, 123, 167);
+}
+
+h1{
+    color: rgb(122, 122, 122);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#pagamento{
+    background-color: rgb(21, 187, 57);
+    color: aliceblue;
+    width: 50ch;
+    height: 6ch;
+    padding: 4% center;
+    font-weight: bold;
+    border: none;
+    border-radius: 40px;
+}
+
+#login{ 
+    background-color: white; 
+    width: 50ch;
+    height: 6ch; 
+    padding: 4% center;
+    font-weight: bold;
+    color: green;
+    border-color: green;
+    border-width: 1px;
+    border-radius: 40px;
+}
+
+h4{
+    color: rgb(156, 156, 156);  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
