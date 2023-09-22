@@ -6,4 +6,4 @@ Recriando um site da NEOENERGIA para colocar em praticas alguns conhecimentos de
 
 https://raulramos94.github.io/Neoenergia/
 
-<img src = "img/NeoEnergia.png">
+<img src = "img/Neoenergia.png">
